@@ -81,7 +81,7 @@ Hasilnya:
 - Tidak perlu biaya mahal untuk inisialisasi awal  
 - Biaya gas lebih stabil dan murah untuk pengguna
 
-## 📚 Resources (Bahasa Indonesia)
+## 📚 Resources
 
 - Smart contract sumber (OpenZeppelin ReentrancyGuard)  
   [Buka file ReentrancyGuard.sol di GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/ReentrancyGuard.sol)
