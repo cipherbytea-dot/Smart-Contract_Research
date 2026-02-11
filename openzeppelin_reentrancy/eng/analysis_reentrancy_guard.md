@@ -92,7 +92,7 @@ Changing from `1` to `2` *(Non-Zero → Non-Zero)* is much cheaper
 **Verdict:**  
 By toggling between `1` and `2`, the contract avoids the heavy cost of initializing a zero-slot, keeping gas costs stable for users.
 
-## 📚 Resources (English Version)
+## 📚 Resources 
 
 - Source smart contract (OpenZeppelin ReentrancyGuard)  
   [Open ReentrancyGuard.sol on GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/ReentrancyGuard.sol)
