@@ -58,7 +58,7 @@ uint256 private constant NOT_ENTERED = 1;
 uint256 private constant ENTERED = 2;
 ```
 
-## Why specific numbers `1` and `2` instead of `true` or `false`?
+## Why specific number `1` and `2` instead of `true` or `false`?
 
 ### Reason A: Storage Slot Efficiency (Read vs Write)
 
