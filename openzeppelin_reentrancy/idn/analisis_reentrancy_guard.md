@@ -37,7 +37,7 @@ Kalau hacker coba masuk lagi saat pintu terkunci, transaksi akan ditolak *(rever
 
 ## Kenapa Pakai Angka `1` dan `2`? (Bukan `true` atau `false`) ⛽
 
-Ini bagian paling menarik. OpenZeppelin tidak memakai `bool`, tetapi menggunakan `uint256` dengan angka `1` dan `2`.
+Ini bagian paling menarik. OpenZeppelin tidak menggunakan `bool`, tetapi menggunakan `uint256` dengan angka `1` dan `2`.
 
 ---
 
